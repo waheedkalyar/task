@@ -1,4 +1,4 @@
-The worker is able to the task as mentioned in the description. For running multiple workers parallel there are several approaches and server configurations as discussed below : 
+The worker is able to do the task as mentioned in the description. For running multiple workers parallel there are several approaches and server configurations as discussed below : 
 
 1. **MultiThreading**
    We can introduce multithreading and run the function on several threads so many workers will be running simultaneously.
